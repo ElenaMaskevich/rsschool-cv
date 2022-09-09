@@ -6,8 +6,8 @@
 * GitHub: ElenaMaskevich
 # Work experience
 QA engineer 
-*(EPAM SYSTEMS Dec, 2021 - Jun, 2022)
-*(Yumasoft Jun, 2022 - up now)
+* EPAM SYSTEMS Dec, 2021 - Jun, 2022 
+* Yumasoft Jun, 2022 - up now 
 # Skills
 * HTML/CSS
 * JavaScript (Basic)
