@@ -5,7 +5,9 @@
 * Email: maskevich1993@mail.ru
 * GitHub: ElenaMaskevich
 # Work experience
-QA engineer
+QA engineer 
+*(EPAM SYSTEMS Dec, 2021 - Jun, 2022)
+*(Yumasoft Jun, 2022 - up now)
 # Skills
 * HTML/CSS
 * JavaScript (Basic)
